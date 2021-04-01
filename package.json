@@ -2,7 +2,7 @@
   "name": "cryptocurrencies-prices-dashboard",
   "version": "0.1.0",
   "author": "ignacioceaglio@protonmail.com",
-  "homepage": "---",
+  "homepage": "https://github.com/Nachoxt17/Cryptocurrencies-prices-Dashboard",
   "private": true,
   "scripts": {
     "dev": "next dev",
