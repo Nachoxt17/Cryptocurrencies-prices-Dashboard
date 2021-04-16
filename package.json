@@ -16,11 +16,10 @@
   },
   "devDependencies": {
     "eslint": "*",
-    "prettier": "*",
-    "babel-eslint": "*",
     "eslint-config-prettier": "*",
     "eslint-plugin-react": "*",
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "prettier": "*"
   },
   "eslintConfig": {
     "extends": "react-app"

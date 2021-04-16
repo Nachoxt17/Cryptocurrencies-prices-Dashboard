@@ -1,4 +1,4 @@
-## Cryptocurrencies-prices-Dashboard made with React.js, Node.js, Next.js and Handlebars.
+## Cryptocurrencies-prices-Dashboard made with React.js, Node.js, Next.js and Handlebars using the CoinGecko API.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
